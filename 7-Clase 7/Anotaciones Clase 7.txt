@@ -1,0 +1,27 @@
+Frontend I 14/06/2021
+
+Clase 7
+
+-Arrastrar Carpeta a Visual: la abre
+
+-plugin Material Icon Theme
+
+-li*4>a (genera 4 li con <a>)
+
+-alt+click repetimos lo que escribimos
+
+-nav>ul>li*4>a (probarlo)
+
+-Califacion codigo html.
+
+herramienta oara seleccionar color
+de mozilla
+
+
+Especifidad:IMPIRTANTE APRENDER
+
+Tipografias:
+-font-family (basicas)
+
+-Google Fonts
+

@@ -1,0 +1,55 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;;
+}
+
+header {
+    text-align: center;
+    background-color: #E5E5E5;
+}
+
+.separado {
+    color: #005677;
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 29,64px;
+    background-color: #C4C4C4;
+}
+
+h2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 16,94px;
+    background-color: #C4C4C4;
+}
+
+.datos {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+footer {
+    color: #FFFFFF;
+    text-align: center;;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 16,94px;
+    background-color: #005677;
+}
